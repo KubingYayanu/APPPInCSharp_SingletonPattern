@@ -1,0 +1,6 @@
+.vs/
+APPPInCSharp_SingletonPattern.Console/bin/
+APPPInCSharp_SingletonPattern.Console/obj/
+APPPInCSharp_SingletonPattern.UnitTests/bin/
+APPPInCSharp_SingletonPattern.UnitTests/obj/
+packages/
