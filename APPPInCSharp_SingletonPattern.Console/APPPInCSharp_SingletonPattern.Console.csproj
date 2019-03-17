@@ -45,6 +45,10 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserDatabase.cs" />
+    <Compile Include="UserDatabaseSource.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
